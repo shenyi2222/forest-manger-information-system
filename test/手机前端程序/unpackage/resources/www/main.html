@@ -1,0 +1,412 @@
+<!doctype html>
+<html>
+
+	<meta charset="UTF-8">
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<link href="css/mui.min.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="./css/main.css" />
+	<style type="text/css">
+		.mui-media {
+			font-size: 14px;
+		}
+
+		.mui-table-view .mui-media-object {
+			max-width: initial;
+			width: 90px;
+			height: 70px;
+		}
+
+
+		.meta-info {
+			position: absolute;
+			left: 115px;
+			right: 15px;
+			bottom: 8px;
+			color: #8f8f94;
+		}
+
+		.meta-info .author,
+		.meta-info .time {
+			display: inline-block;
+		}
+
+		.meta-info .time {
+			float: right;
+		}
+
+		.mui-table-view:before,
+		.mui-table-view:after {
+			height: 0;
+		}
+
+		.mui-content>.mui-table-view:first-child {
+			margin-top: 1px;
+		}
+
+		html,
+		body {
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+			font-size: 14px;
+			font-family: "微软雅黑";
+			background-color: white;
+		}
+
+		@media only screen and (min-width: 320px) {
+
+			html,
+			body {
+				font-size: 10.5px !important
+			}
+		}
+
+		@media only screen and (min-width: 375px) {
+
+			html,
+			body {
+				font-size: 13px !important
+			}
+		}
+
+		@media only screen and (min-width: 411px) {
+
+			html,
+			body {
+				font-size: 14px !important
+			}
+		}
+
+		@media only screen and (min-width: 414px) {
+
+			html,
+			body {
+				font-size: 14.5px !important
+			}
+		}
+
+		@media only screen and (min-width: 540px) {
+
+			html,
+			body {
+				font-size: 20px !important
+			}
+		}
+
+		.mui-bar-nav {
+			background-color: rgb(57, 155, 155);
+			height: 9%;
+		}
+
+		.mui-content {
+			background-color: white;
+			width: 100%;
+			height: 90%;
+			position: absolute;
+			overflow: hidden;
+			left: 0;
+			right: 0;
+			top: 9%;
+			bottom: 0;
+		}
+
+		.mui-bar-nav~.mui-content {
+			padding-top: 0px;
+		}
+
+		span {
+			margin-top: 2%;
+			left: 2%;
+		}
+
+		#personbtn {
+			color: white;
+			position: relative;
+			top: 25%;
+			font-size: 220%;
+		}
+
+		#rec {
+			position: absolute;
+			border-radius: 1rem;
+			background-color: rgba(57, 155, 155, 0.7);
+			width: 110%;
+			height: 9000%;
+		}
+
+		.mui-col-sm-12 button {
+			position: absolute;
+			top: 3500%;
+			left: 0%;
+			width: 100%;
+			font-size: 180%;
+			border-radius: 1rem;
+			color: white;
+			background-color: rgba(255, 151, 98, 0.7);
+			border: 1px solid rgb(255, 151, 98);
+		}
+
+		.mui-col-sm-12 button:active {
+			background-color: rgba(57, 155, 155, 0.7) !important;
+			border: 10px solid rgb(57, 155, 155) !important;
+		}
+
+
+		hr {
+			width: 0.6rem;
+			position: relative;
+			height: 0.01rem;
+			top: 1%;
+			left: -47%;
+			border: none;
+		}
+
+		p {
+			position: relative;
+			left: 6%;
+			top: 2rem;
+			font-size: 120%;
+		}
+
+		#row1 {
+			position: relative;
+			top: 15%;
+		}
+
+		#row2 {
+			position: relative;
+			top: 20%;
+		}
+
+		#row1 img {
+			width: 30%;
+			padding: 0.5rem;
+			margin-left: 0%;
+			margin-right: 0%;
+			position: relative;
+			left: 3%;
+			background-color: rgba(57, 155, 155, 0.8);
+			border-radius: 5px;
+		}
+
+		#row3 {
+			position: relative;
+			top: 2%;
+		}
+
+		#row3 img {
+			width: 25%;
+			padding: 0.5rem;
+			margin-left: 0%;
+			margin-right: 0%;
+			position: relative;
+			left: 3%;
+			background-color: rgba(57, 155, 155, 0.8);
+			border-radius: 5px;
+		}
+
+		#label1 {
+			position: absolute;
+			left: 2px;
+			left: 12%;
+		}
+
+		#label2 {
+			position: absolute;
+			left: 2px;
+			left: 44%;
+		}
+
+		#label3 {
+			position: absolute;
+			left: 2px;
+			left: 76%;
+		}
+
+		#row1 img:active {
+			background-color: #FF9762 !important;
+		}
+
+		.mui-col.mui-col-sm-12 {
+			height: 100%;
+			width: 100%;
+		}
+
+		#ctn1 {
+			position: relative;
+			height: 15%;
+			top: 0%;
+		}
+
+		#ctn2 {
+			background-color: rgb(57, 155, 155);
+			position: relative;
+			height: 10%;
+			top: 0%;
+		}
+
+		#ctn3 {
+			position: relative;
+			height: 20%;
+			top: 0%;
+		}
+
+		#ctn4 {
+
+			position: relative;
+			height: 40%;
+			top: 0%;
+		}
+
+		#ctn5 {
+			background-color: rgb(57, 155, 155);
+			position: relative;
+			height: 18%;
+			top: 0%;
+		}
+	</style>
+	</head>
+	<body>
+		<header class="mui-bar mui-bar-nav">
+			<a class="mui-icon iconfont icon-man mui-pull-right" id="personbtn"></a>
+			<p style="font-size: 200%;color: #666666;font-weight: bold;left:45%;top: 50%">主页</p>
+		</header>
+		<div class="mui-content">
+			<div id="ctn1">
+				<ul class="mui-table-view">
+					<li class="mui-table-view-cell mui-media">
+						<img class="mui-media-object mui-pull-left" src="picture/renyuan.png">
+						<div class="mui-media-body">
+							<p style="font-size: 180%;color: #666666;font-weight: bold;left: 20%;top: 5%" class="t"></p>
+							<hr>
+							<p style="font-size: 120%;color: #666666;font-weight: bold;left: 25%;top:5%" class="tv"></p>
+							<hr>
+							<p style="font-size: 120%;color: #666666;font-weight: bold;left: 25%;top:5%" class="n"></p>
+						</div>
+					</li>
+				</ul>
+
+			</div>
+			<div id="ctn2">
+				<p style="font-size: 200%;color: #666666;font-weight: bold;left: 20%;top: 30%;">工作时间：7:00--18:00</p>
+			</div>
+			<div id="ctn3">
+				<div id="box">
+					<div class="container" id="pullrefresh">
+						<div class="now-add">
+							<svg class="icon" aria-hidden="true">
+								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-address"></use>
+							</svg>
+							<span class="city"></span>
+						</div>
+						<p class="icon-type">
+							<img class="icon-type-weather" />
+						</p>
+						<p class="now-wendu"></p>
+						<p class="type"></p>
+
+					</div>
+				</div>
+			</div>
+
+
+
+			<!-- 			<div id="box">
+				<div class="container" id="pullrefresh"> -->
+			<!-- 						<div class="now-add">
+						<svg class="icon" aria-hidden="true">
+							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-address"></use>
+						</svg>
+						<span class="city"></span>
+					</div> -->
+			<!-- 					<div class="show-weather">
+						<div class="wendu">
+							<p class="now-wendu"></p>
+							<p class="type"></p>
+						</div>
+						<p class="icon-type">
+							<img class="icon-type-weather" />
+						</p>
+					</div> -->
+			<!-- 	</div> -->
+			<div id="ctn5">
+				<p style="font-size: 120%;color: #666666;font-weight: bold;left: 50%;top: 50%;">经纬度</p>
+			</div id="ctn5">
+			<div id="ctn4">
+				<div class="mui-row" id="row1">
+					<img id="button4" src="picture/upload.png" />
+					<img id="button5" src="picture/place.png" />
+					<img id="button1" src="picture/note.png" />
+					<br />
+					<label id="label1">媒体采集</label><label id="label2">定位查看</label><label id="label3">任务接收</label>
+				</div>
+				<div class="mui-row" id="row2">
+					<div class="mui-col mui-col-sm-12">
+						<button type="button" class="mui-btn" id="startbtn">退出巡护</button>
+					</div>
+				</div>
+			</div id="ctn4">
+		</div>
+		<script src="js/mui.min.js"> </script>
+		<script src="js/mui.js"></script>
+		<script type="text/javascript" src="./js/jquery-3.2.1.js"></script>
+		<script src="./js/iconfont.js"></script>
+		<script type="text/javascript" src="./js/main.js"></script>
+		<script>
+			mui.init({
+				keyEventBind: {
+					backbutton: true // 打开back按键监听
+				},
+				pullRefresh: {
+					container: "#pullrefresh", //下拉刷新容器标识，querySelector能定位的css选择器均可，比如：id、.class等
+					down: {
+						style: 'circle', //必选，下拉刷新样式，目前支持原生5+ ‘circle’ 样式
+						color: '#2BD009', //可选，默认“#2BD009” 下拉刷新控件颜色
+						height: '50px', //可选,默认50px.下拉刷新控件的高度,
+						range: '100px', //可选 默认100px,控件可下拉拖拽的范围
+						offset: '0px', //可选 默认0px,下拉刷新控件的起始位置
+						auto: true, //可选,默认false.首次加载自动上拉刷新一次
+						callback: Main //必选，刷新函数，根据具体业务来编写，比如通过ajax从服务器获取新数据；
+					}
+				}
+			})
+			mui.plusReady(function() {
+				gettext(); //调用得到信息方法
+			})
+			//得到基本信息
+			function gettext() {
+				var tel = plus.storage.getItem("tel");
+				$('.t').text(tel);
+				var to = plus.storage.getItem("town")
+				var vi = plus.storage.getItem("village");
+				var tovi = to + vi;
+				$('.tv').text(tovi);
+				var na = plus.storage.getItem("name") + "护林员,你好！";
+				$('.n').text(na);
+			}
+			//当前位置
+			document.getElementById('button5').addEventListener('tap', function() {
+				//打开新窗口
+				mui.openWindow({
+					url: "examples/geojson-crs/dingwei.html",
+					id: "dingwei.html"
+				})
+				//刷新
+				var wobj = plus.webview.getWebviewById("dingwei.html");
+				wobj.reload(true);
+			});
+			//退出巡护
+			document.getElementById('startbtn').addEventListener('tap', function() {
+				var btnArray = ['取消', '确认'];
+				mui.confirm('确认已完成了本次巡护吗？', '确认', btnArray, function(e) {
+
+					mui.currentWebview.close();
+					plus.runtime.quit();
+					//关闭程序	   
+				});
+			});
+		</script>
+	</body>
+
+</html>

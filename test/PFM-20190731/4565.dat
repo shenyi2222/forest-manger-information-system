@@ -1,0 +1,20 @@
+9	角色管理	~/res/icon/tag_blue.png	~/admin/role.aspx	二级菜单	60	1	6
+10	角色用户管理	~/res/icon/tag_blue.png	~/admin/role_user.aspx	二级菜单	70	1	10
+11	权限管理	~/res/icon/tag_blue.png	~/admin/power.aspx	二级菜单	80	1	36
+12	角色权限管理	~/res/icon/tag_blue.png	~/admin/role_power.aspx	二级菜单	90	1	40
+13	菜单管理	~/res/icon/tag_blue.png	~/admin/menu.aspx	二级菜单	100	1	16
+14	在线统计	~/res/icon/tag_blue.png	~/admin/online.aspx	二级菜单	110	1	13
+15	系统配置	~/res/icon/tag_blue.png	~/admin/config.aspx	二级菜单	120	1	14
+16	修改密码	~/res/icon/tag_blue.png	~/admin/changepassword.aspx	二级菜单	130	1	\N
+1	系统管理	~/res/icon/tag_yellow.png		顶级菜单	2	\N	\N
+2	业务管理	~/res/icon/tag_orange.png		顶级菜单	1	\N	\N
+23	巡护信息查看	~/res/icon/tag_yellow.png	~/admin/business/patrolinfo.aspx		20	2	50
+24	消息下达	~/res/icon/tag_red.png	~/admin/business/Message.aspx		40	2	\N
+25	用户管理	~/res/icon/tag_blue.png	~/admin/user.aspx		10	1	1
+22	护林人员管理	~/res/icon/tag_green.png	~/admin/business/ranger.aspx		50	2	45
+26	巡护信息审计	~/res/icon/tag_orange.png	~/admin/business/auditinfo.aspx		30	2	55
+28	实时位置	~/res/icon/tag_green.png	~/admin/business/map.aspx		10	2	\N
+29	区域信息查看	~/res/icon/tag_green.png	~/admin/business/parea.aspx		60	2	\N
+\.
+
+

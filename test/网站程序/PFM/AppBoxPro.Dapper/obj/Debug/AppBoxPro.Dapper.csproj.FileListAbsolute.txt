@@ -1,0 +1,234 @@
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\Dapper.dll
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\MySql.Data.dll
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\Dapper.xml
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\MySql.Data.xml
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+C:\AppBoxPro_Dapper_v5.2_全部源代码_保密\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojResolveAssemblyReference.cache
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Work Space\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Work Space\zwb\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Work Space\MS Design\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.pdb
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.xml
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Work Space\TestApplication\AppBoxPro-Edit20190210\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.pdb
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.xml
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Work Space\TestApplication\AppBoxPro-PostgreSQL\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.pdb
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.xml
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Desktop\mis\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.pdb
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.xml
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+F:\Desktop\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Dapper.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\MySql.Data.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.pdb
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\Npgsql.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Buffers.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Memory.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\bin\System.ValueTuple.xml
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CoreCompileInputs.cache
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csproj.CopyComplete
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb
+D:\Desktop\0702MIS\0625MIS\MIS\AppBoxPro\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojAssemblyReference.cache
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll.config
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\AppBoxPro.Dapper.pdb
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Dapper.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Google.Protobuf.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\MySql.Data.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Newtonsoft.Json.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Npgsql.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Buffers.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Memory.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.ValueTuple.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Dapper.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Google.Protobuf.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\MySql.Data.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Newtonsoft.Json.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Npgsql.pdb
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\Npgsql.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Buffers.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Memory.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\bin\System.ValueTuple.xml
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.csprojResolveAssemblyReference.cache
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.dll
+C:\Users\sy\Desktop\mis的项目\网站程序\PFM\AppBoxPro.Dapper\obj\Debug\AppBoxPro.Dapper.pdb

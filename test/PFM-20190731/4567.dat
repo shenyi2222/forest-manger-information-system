@@ -1,0 +1,55 @@
+1	CoreUserView	CoreUser	浏览用户列表	\N
+2	CoreUserNew	CoreUser	新增用户	\N
+3	CoreUserEdit	CoreUser	编辑用户	\N
+4	CoreUserDelete	CoreUser	删除用户	\N
+5	CoreUserChangePassword	CoreUser	修改用户登陆密码	\N
+6	CoreRoleView	CoreRole	浏览角色列表	\N
+7	CoreRoleNew	CoreRole	新增角色	\N
+8	CoreRoleEdit	CoreRole	编辑角色	\N
+9	CoreRoleDelete	CoreRole	删除角色	\N
+10	CoreRoleUserView	CoreRoleUser	浏览角色用户列表	\N
+11	CoreRoleUserNew	CoreRoleUser	向角色添加用户	\N
+12	CoreRoleUserDelete	CoreRoleUser	从角色中删除用户	\N
+13	CoreOnlineView	CoreOnline	浏览在线用户列表	\N
+14	CoreConfigView	CoreConfig	浏览全局配置参数	\N
+15	CoreConfigEdit	CoreConfig	修改全局配置参数	\N
+16	CoreMenuView	CoreMenu	浏览菜单列表	\N
+17	CoreMenuNew	CoreMenu	新增菜单	\N
+18	CoreMenuEdit	CoreMenu	编辑菜单	\N
+19	CoreMenuDelete	CoreMenu	删除菜单	\N
+20	CoreLogView	CoreLog	浏览日志列表	\N
+21	CoreLogDelete	CoreLog	删除日志	\N
+22	CoreTitleView	CoreTitle	浏览职务列表	\N
+23	CoreTitleNew	CoreTitle	新增职务	\N
+24	CoreTitleEdit	CoreTitle	编辑职务	\N
+25	CoreTitleDelete	CoreTitle	删除职务	\N
+26	CoreTitleUserView	CoreTitleUser	浏览职务用户列表	\N
+27	CoreTitleUserNew	CoreTitleUser	向职务添加用户	\N
+28	CoreTitleUserDelete	CoreTitleUser	从职务中删除用户	\N
+29	CoreDeptView	CoreDept	浏览部门列表	\N
+30	CoreDeptNew	CoreDept	新增部门	\N
+31	CoreDeptEdit	CoreDept	编辑部门	\N
+32	CoreDeptDelete	CoreDept	删除部门	\N
+33	CoreDeptUserView	CoreDeptUser	浏览部门用户列表	\N
+34	CoreDeptUserNew	CoreDeptUser	向部门添加用户	\N
+35	CoreDeptUserDelete	CoreDeptUser	从部门中删除用户	\N
+36	CorePowerView	CorePower	浏览权限列表	\N
+37	CorePowerNew	CorePower	新增权限	\N
+38	CorePowerEdit	CorePower	编辑权限	\N
+39	CorePowerDelete	CorePower	删除权限	\N
+40	CoreRolePowerView	CoreRolePower	浏览角色权限列表	\N
+41	CoreRolePowerEdit	CoreRolePower	编辑角色权限	\N
+46	BizRangerDelete	BizRanger	删除护林人员	
+45	BizRangerView	BizRanger	浏览护林人员列表	
+47	BizRangerEdit	BizRanger	编辑护林人员	
+48	BizRangerNew	BizRanger	新增护林人员	
+49	BizRangerChangePassword	BizRanger	修改护林人员登陆密码	
+50	BizPatrolInfoView	BizPatrolInfo	浏览巡护信息	
+53	BizMessageEdit	BizMessage	编辑信息	
+52	BizMessageNew	BizMessage	新建信息	
+54	BizMessageView	BizMessage	查看信息详情	
+51	BizMessageView	BizMessage	浏览消息列表	
+55	BizAuditInfoView	BizAuditInfo	浏览巡护信息审计	
+\.
+
+

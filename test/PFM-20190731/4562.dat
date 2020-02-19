@@ -1,0 +1,8 @@
+1	Title	专业森林管家系统	网站的标题
+2	PageSize	20	表格每页显示的个数
+3	Theme	pure_green	网站主题
+4	HelpList	[{\r\n    "Text": "系统帮助",\r\n    "Icon": "Help",\r\n    "ID": "help",\r\n    "URL": "~/admin/help/help.htm"\r\n}]	帮助下拉列表的JSON字符串
+5	MenuType	tree	菜单样式
+\.
+
+

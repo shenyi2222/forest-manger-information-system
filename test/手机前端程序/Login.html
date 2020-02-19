@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<link href="css/mui.min.css" rel="stylesheet" />
+		<style type="text/css">
+			body,
+			.mui-content {
+				background: url(picture/test3.jpg) no-repeat center;
+				background-size: 100% 100%;
+				width: 100%;
+				height: 100%;
+				display: inline-block;
+				position: fixed;
+				font-size: 14px;
+			}
+
+			label {
+				font-size: 18px;
+				color: rgb(153, 153, 153);
+			}
+
+			input[type=color],
+			input[type=date],
+			input[type=datetime-local],
+			input[type=datetime],
+			input[type=email],
+			input[type=month],
+			input[type=number],
+			input[type=password],
+			input[type=search],
+			input[type=tel],
+			input[type=text],
+			input[type=time],
+			input[type=url],
+			input[type=week],
+			select,
+			textarea {
+				border: rgba(0, 0, 0, 0);
+				margin-bottom: -30px;
+				padding: 0px;
+			}
+
+			hr {
+				position: relative;
+				border: 1px solid rgb(228, 228, 228);
+				left: -2%;
+				width: 95%;
+			}
+
+			#loginbtn {
+				background-color: rgba(57, 155, 155, 0.7);
+				color: white;
+				width: 90%;
+				height: 50px;
+				left: 4%;
+				font-size: 140%;
+				border-radius: 1rem;
+				top: 2rem;
+				border: 0px solid #ccc;
+			}
+
+			#loginform {
+				position: absolute;
+				width: 90%;
+				top: 45%;
+				margin-left: 5%;
+			}
+		</style>
+	</head>
+	<body>
+		<script src="js/mui.js"></script>
+		<script src="js/mui.min.js"></script>
+		<script src="js/jquery-3.2.1.js"></script>
+		<script src="js/mobile_socket.js"></script>
+	   <script src="js/test_udpsocket.js"></script>
+		<script type="text/javascript" charset="utf-8">
+			mui.init();
+			var value = "";
+			var jwsf = [];
+			var intervald = null;
+			mui.plusReady(function() {
+				logincheck(); //调用登录验证方法
+			})
+			//登录验证方法
+			function logincheck() {
+				document.getElementById('loginbtn').addEventListener('tap', function() {
+
+					//loading按钮
+					mui(this).button('loading');
+					setTimeout(function() {
+						mui(this).button('reset');
+					}.bind(this), 1000);
+
+					//获取输入框的值
+					s_telnum = mui('#telnum')[0].value;
+					s_password = mui('#password')[0].value;
+
+					//检验是否为空，若非空则发送给服务器
+					if (s_telnum == "" || s_password == "") {
+						mui.toast("请输入手机号和密码");
+					} else {
+						//把电话号码和密码发送给服务器校验，服务器返回是否正确
+						mui.ajax('http://39.106.41.205:1010/api/Login', {
+							data: {
+								tel: s_telnum,
+								password: s_password,
+							},
+							dataType: 'json', //服务器返回json格式数据
+							type: 'post', //HTTP请求类型
+							timeout: 100000, //超时时间设置为100秒；
+							success: function(data) {
+								//如正确Status返回1，不正确Status返回2
+								if (data.Status == 2) {
+									alert("用户名或密码错误");
+								} else {
+
+									//存储信息				
+									plus.storage.setItem("idnumber", data.ReturnData[0].id.toString());
+									plus.storage.setItem("tel", data.ReturnData[0].tel);
+									plus.storage.setItem("name", data.ReturnData[0].name);
+									plus.storage.setItem("town", data.ReturnData[0].town);
+									plus.storage.setItem("village", data.ReturnData[0].village);
+									intervald = setInterval(dingdian, 10000);
+									mui.openWindow({
+										url: "main.html",
+										id: "main.html",
+										createNew: true, //是否重复创建同样id的webview，默认为false:不重复创建，直接显示
+									})
+								}
+							},
+							error: function(xhr, type, errorThrown) {
+								console.log(xhr);
+								mui.toast("登录失败\n错误为：" + type);
+							}
+						});
+					}
+				});
+			}
+
+			function dingdian() {
+
+				//定位到当前位置
+				plus.geolocation.getCurrentPosition(function(p) {
+					var myDate = new Date();
+					var lat = p.coords.latitude; //纬度
+					var lng = p.coords.longitude; //经度
+					var mytime = myDate.toLocaleString('chinese', {
+						hour12: false
+					}); //时间,string
+					var z = plus.storage.getItem("idnumber");
+					var tel =parseFloat(z);
+					console.log("lat:" + lat + "lng:" + lng + "time:" + mytime + "tel:" + tel);
+					//不停集合存到数组
+					if (jwsf.length <2) {
+						jwsf.push({
+							lat: lat,
+							lng: lng,
+							mytime: mytime,
+							tel: tel
+						});
+
+						console.log(jwsf.length);
+					} else {
+
+						//拼接字符串
+						for (var i = 0; i < jwsf.length; i++) {
+							value += jwsf[i].tel + "|" + jwsf[i].lng + "|" + jwsf[i].lat + "|" + jwsf[i].mytime + "|" + "#";
+						}
+						// //去掉最后一个#并且加上"\r\n"
+						// value = value.substr(0, value.length - 1) + "\r\n";
+						// console.log(value);
+						// console.log(send(value) != 1);
+						//去掉最后一个#
+						 value = value.substr(0, value.length - 1) ;
+						 //把点的信息发送给服务器校验，服务器返回是否正确
+						 mui.ajax('http://39.106.41.205:1010/api/tkpoint', {
+						 	data: {
+						 		message: value,
+						 	},
+						 	dataType: 'json', //服务器返回json格式数据
+						 	type: 'post', //HTTP请求类型
+						 	timeout: 100000, //超时时间设置为100秒；
+						 	success: function(data) {
+						 	  console.log(data);
+						 	},
+						 	error: function(xhr, type, errorThrown) {
+						 		console.log(xhr);
+						 		mui.toast("登录失败\n错误为：" + type);
+						 	}
+						 });
+						 
+						jwsf = []; //清空临时数组
+						value = "";
+					}
+				}, function(e) {
+					console.log("Geolocation error: " + e.message);
+				}, {
+					provider: 'system',
+					enableHighAccuracy: true
+				});
+			}
+		</script>
+		<mhead></mhead>
+		<mbody>
+			<div class="mui-content">
+				<div id="loginform">
+					<label>手机号</label>
+					<div class="mui-input-row">
+						<input type="number" id="telnum">
+					</div>
+					<hr />
+					<label>密码</label>
+					<div class="mui-input-row">
+						<input type="password" id="password" class="mui-input-password">
+					</div>
+					<hr />
+					<div class="mui-content-padded mui-active">
+						<button type="button" data-loading-text="提交中" class="mui-btn" id="loginbtn">登录</button>
+					</div>
+				</div>
+			</div>
+		</mbody>
+	</body>
+</html>
